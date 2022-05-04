@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "http://a-rains.squarespace.com",
+    "text": "Andrew Weymouth"
+  },
+  "text": {
+    "more": "Circles are color coded by community and organized by associated industries, date and location of publication. \n\nClick on any item to bring up full text, metadata and link to item page. ",
+    "intro": "Mapping Language: \nRepresentation of  Immigrant Communities in the Pacific Northwest, 1880-1930\n\nAndrew Weymouth 2022 Capstone project for the University of Washington\n\nDeveloping language used to describe immigrant groups in the Pacific Northwest from 1880-1930, reflects labor, industrial and land development interests, which may still influence our perceptions today.",
+    "title": ""
+  },
+  "legend": {
+    "edgeLabel": "",
+    "colorLabel": "",
+    "nodeLabel": ""
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "community",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "industry"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
