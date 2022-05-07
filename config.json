@@ -2,8 +2,8 @@
   "type": "network",
   "version": "1.0",
   "data": "data.json",
-  "logo": {
-    "file": "",
+  "logo": true
+    "file": "ILL030_logo.png"
     "link": "http://a-rains.squarespace.com",
     "text": "Andrew Weymouth"
   },
@@ -13,8 +13,8 @@
     "title": ""
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
+    "edgeLabel": "Industry",
+    "colorLabel": "Community",
     "nodeLabel": "Community Color Codes: Fuchsia \u003d Black, Red \u003d Chinese,  Light Purple \u003d Irish,  Orange \u003d Italian,  Dark Purple \u003d Filipino,  Brown \u003d Finnish,  Light Blue \u003d German,  Dark Blue \u003d Greek,  Pink \u003d Hindu,  Light Green \u003d Japanese,  Dark Green \u003d Korean,  Yellow \u003d Native Americans,  Dark Green \u003d Norwegian,  Aqua \u003d Polish"
   },
   "features": {
