@@ -3,9 +3,9 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "http://a-rains.squarespace.com",
-    "text": "Andrew Weymouth"
+    "file": "https://aweymo.github.io/cs_land/uploads/uploads/2022/ill030_logo.png"
+    "link": "https://aweymo.github.io/cs_land/"
+    "text": "Landing Page"
   },
   "text": {
     "more": "Objects are color coded by community, grouped by industry and arranged by date and location. Click object to open information pane which includes full text. As hyperlinking is unavailable for this tool, copy and paste the contents of the \"object location\" field to visit the item\u0027s page.",
